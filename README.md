@@ -5,7 +5,7 @@
     height = "125"
     </div>
     <div id = "badges">
-      <a href = "your-linkedin">
+      <a href = "https://www.linkedin.com/in/michael-sheehey">
         <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt ="LinkedIn Badge"/>
       </a>
       <a href = "your-youtube">
